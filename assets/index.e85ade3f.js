@@ -1,0 +1,1 @@
+import{c as e,D as t,G as r}from"./vendor.20bd6f23.js";function n(){return e.exports.createElement(t,{copyright:`${(new Date).getFullYear()} theprimone 出品`,links:[{key:"github",title:e.exports.createElement(r,null),href:"https://github.com/theprimone/vite-react",blankTarget:!0}]})}export{n as G};
